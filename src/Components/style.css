@@ -28,7 +28,12 @@ form {
   background-color: skyblue;
   border-radius: 10px;
   box-shadow: 4px 4px 4px grey;
-  opacity: 1;
+  /* opacity:0.91; */
+}
+h1{
+  color: rgb(39, 39, 151);
+  text-underline-offset: unset;
+  margin: 0px;
 }
 input {
   height: 30px;

@@ -65,6 +65,7 @@ const Signup = () => {
 
   return (
     <div className="Container">
+      <h1>Signup</h1>
       <form action="#">
         <input
           type="text"
